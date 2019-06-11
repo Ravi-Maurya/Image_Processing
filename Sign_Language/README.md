@@ -1,5 +1,6 @@
 # Sign Language Detector
 Sign languages (also known as signed languages) are languages that use the visual-manual modality to convey meaning. Language is expressed via the manual signstream in combination with non-manual elements. Sign languages are full-fledged natural languages with their own grammar and lexicon. This means that sign languages are not universal and they are not mutually intelligible, although there are also striking similarities among sign languages.
+<img src="https://github.com/Ravi-Maurya/Image_Processing/blob/master/Sign_Language/Images/Title.png" width=1024 height=640>
 <br>
 This model has two basic properties to understand :-
                   <pre><b>1.</b> It focuses on Hand actions<br><b>2.</b> Uses Tensorflow model for accurate results</pre>
